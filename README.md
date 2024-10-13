@@ -1,4 +1,6 @@
 Análise de Vendas de Silos
+
+
 Este repositório contém uma análise de dados de vendas para diferentes silos. Os dados são originados de um arquivo Excel e visualizados usando bibliotecas Python como Pandas, Matplotlib e Seaborn.
 
 Dados
